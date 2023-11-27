@@ -66,12 +66,15 @@ the plots are stored in the 'plots/' folder.
 ## Citation
 
 ```
-@article{aushev2020likelihood,
-  title={Likelihood-Free Inference with Deep Gaussian Processes},
+@article{aushev2022likelihood,
+  title={Likelihood-free inference with deep Gaussian processes},
   author={Aushev, Alexander and Pesonen, Henri and Heinonen, Markus and Corander, Jukka and Kaski, Samuel},
-  journal={arXiv preprint arXiv:2006.10571},
-  year={2020}
+  journal={Computational Statistics \& Data Analysis},
+  volume={174},
+  pages={107529},
+  year={2022},
+  publisher={Elsevier}
 }
 ```
 
-the arxiv version of the paper: https://arxiv.org/pdf/2006.10571.pdf 
+Full article: https://www.sciencedirect.com/science/article/pii/S0167947322001098
